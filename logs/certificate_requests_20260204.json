@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2026-02-04T00:39:09.100489",
+    "ip_address": "127.0.0.1",
+    "endpoint": "get_management_certificate",
+    "name": "Sandeep Singh",
+    "id": "240111532",
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "timestamp": "2026-02-04T00:42:08.082980",
+    "ip_address": "127.0.0.1",
+    "endpoint": "get_certificate",
+    "name": "Aishwarya Rautela",
+    "id": "25101281366",
+    "status": "failed",
+    "reason": "Invalid CSRF token"
+  },
+  {
+    "timestamp": "2026-02-04T00:52:47.689539",
+    "ip_address": "127.0.0.1",
+    "endpoint": "get_management_certificate",
+    "name": "Sandeep Singh",
+    "id": "240111532",
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "timestamp": "2026-02-04T00:55:47.888918",
+    "ip_address": "127.0.0.1",
+    "endpoint": "get_management_certificate",
+    "name": "Sandeep Singh",
+    "id": "240111532",
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "timestamp": "2026-02-04T01:14:20.556927",
+    "ip_address": "127.0.0.1",
+    "endpoint": "get_certificate",
+    "name": "Ayush Kholiya ",
+    "id": "25101281698",
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "timestamp": "2026-02-04T01:14:37.469353",
+    "ip_address": "127.0.0.1",
+    "endpoint": "get_management_certificate",
+    "name": "Sandeep Singh",
+    "id": "240111532",
+    "status": "success",
+    "reason": ""
+  },
+  {
+    "timestamp": "2026-02-04T01:15:12.927972",
+    "ip_address": "127.0.0.1",
+    "endpoint": "get_management_certificate",
+    "name": "Sandeep Singh",
+    "id": "240111532",
+    "status": "success",
+    "reason": ""
+  }
+]
